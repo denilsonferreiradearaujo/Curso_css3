@@ -1,0 +1,25 @@
+* {margin: 0; padding: 0;}
+
+h1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+p {
+    border: 3px solid blue;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    background-color: black;
+}
+
+input{
+    width: 200px;
+    background-color: rgb(134, 134, 168);
+}
