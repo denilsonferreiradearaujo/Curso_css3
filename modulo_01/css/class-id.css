@@ -4,7 +4,13 @@
     color: blueviolet;
 }
 
-.texto_secundario{
-    color: yellow;
+
+#texto1 {
+    background-color: yellow;
+
+}
+
+#texto2 {
+    background-color: blanchedalmond;
 
 }
