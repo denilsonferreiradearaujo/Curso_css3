@@ -1,0 +1,15 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+#exemplo {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    transition: 3s;
+}
+
+#exemplo:hover {
+    background-color: rgb(169, 49, 127);
+    height: 400px;
+    width: 400px;
+    
+}

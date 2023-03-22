@@ -1,0 +1,23 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+
+#base {
+    background-color: green;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+}
+
+#direira {
+    background-color: red;
+    width: 300PX;
+    height: 300PX;
+    float: right;
+}
+
+#esquerda {
+    background-color: rgb(19, 105, 234);
+    width: 300PX;
+    height: 300PX;
+    float: left;
+}
